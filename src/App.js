@@ -44,8 +44,6 @@ useEffect(()=>{
   getUser();
 }, [])
 
-console.log(user);
-
   return (
     <>
     <div className="App">
